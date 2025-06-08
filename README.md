@@ -26,7 +26,6 @@ Electrical Engineering
 Digital Circutis
 Integrated Circuit
 
-
 (Ancient) History
 Linguistics
 
@@ -34,7 +33,7 @@ All explanation is achieved by metaphor. X is Y, where Y is something that the p
 
 Formal logic, foundations of mathematics. Mechanical calculation. Algorithm time complexity. 
 
-Asby, Wiener
+Ashby, Wiener
 Limits of Growth
 Growth (Smil)
 Non-Zero
