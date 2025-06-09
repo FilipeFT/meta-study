@@ -11,3 +11,5 @@ Rather than demonstrating the existence of a universal principle, power laws ill
 71
 
 "Trajectories of all organismic growth must assume the form of a confined curve."
+
+Did the expansion of Rome into colder climates cause a deforestation to supply fuel for inefficient hypocaust systems?
